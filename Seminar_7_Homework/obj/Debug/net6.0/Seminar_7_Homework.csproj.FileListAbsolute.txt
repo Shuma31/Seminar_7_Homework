@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\bin\Debug\net6.0\Seminar_7_Homework.exe
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\bin\Debug\net6.0\Seminar_7_Homework.deps.json
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\bin\Debug\net6.0\Seminar_7_Homework.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\bin\Debug\net6.0\Seminar_7_Homework.dll
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\bin\Debug\net6.0\Seminar_7_Homework.pdb
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.dll
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\refint\Seminar_7_Homework.dll
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.pdb
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\Seminar_7_Homework.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains обучение\Вводныи блок\3 Блок. Знакомство с языком программирования C#\Семинар 7. С#\Seminar_7_Homework\obj\Debug\net6.0\ref\Seminar_7_Homework.dll
